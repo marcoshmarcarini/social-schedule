@@ -1,0 +1,16 @@
+.menu_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80px;
+    background-color: #5b21b6;
+}
+.menu_list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.menu_item{
+    color: #ffffff;
+}

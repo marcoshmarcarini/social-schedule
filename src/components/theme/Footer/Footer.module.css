@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80px;
+    background-color: #5b21b6;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.text{
+    color: #ffffff;
+    text-align: center;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 1rem;
+    margin: 0 auto;
+}
